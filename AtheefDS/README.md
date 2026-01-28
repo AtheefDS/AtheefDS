@@ -1,6 +1,6 @@
 
 
-💫 About Me:
+💫 About Me:<br>
 Hello, I am Mohamed Atheef Undergraduate student at University of Moratuwa, pursuing BSc (Hons) in IT at the Faculty of Information Technology. Interested in full stack development , software projects & Hardware Projects.
  👋
 
